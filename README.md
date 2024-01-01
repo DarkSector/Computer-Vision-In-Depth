@@ -14,11 +14,11 @@ Install all the packages in requirements.txt `pip install -r requirements.txt` a
 ### Fundamentals
 
 - [x] [Basic OpenCV imread and API](01_CV-Basics.ipynb)
-- [x] [Basic Image Kernels]()
-- [x] [Morphological operations]()
-- [x] [Smoothening and Blurring operations]()
-- [x] [Thresholding (basic, Otsu's or Global, Adaptive)]()
-- [ ] [Gradients (including Sobel and Scharr kernels)]()
+- [x] [Basic Image Kernels](02_Kernels.ipynb)
+- [x] [Morphological operations](03_Morphological-Operations.ipynb)
+- [x] [Smoothening and Blurring operations](04_Smoothening-Blurring.ipynb)
+- [x] [Thresholding (basic, Otsu's or Global, Adaptive)](05_Thresholding.ipynb)
+- [ ] [Gradients (including Sobel and Scharr kernels)](06_Gradients.ipynb)
 - [ ] Contours
 - [ ] Histograms
 
